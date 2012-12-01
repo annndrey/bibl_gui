@@ -1,0 +1,5 @@
+dbname=bibliography
+user=annndrey
+host=localhost
+password=andreygon
+port=5432

@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>searchallForm</class>
+ <widget class="QDialog" name="searchallForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1220</width>
+    <height>411</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Настраиваемый поиск</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QGroupBox" name="groupFields">
+     <property name="title">
+      <string>Поля</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="1">
+       <widget class="QComboBox" name="field_comboBox0">
+        <item>
+         <property name="text">
+          <string>Авторы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (ориг.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (альт.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Источник</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Редактор</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Место издания</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Издательство</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Год</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Том</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Выпуск</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Серия</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Часть</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страницы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таблицы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Карты</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Иллюстрации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ссылки</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Область серии</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Язык</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тип публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реф. код</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>УДК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Zool. Rec.</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISSN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISBN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таксономические ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Дата публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страна публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер изд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Основной инд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Владелец патента</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реферат</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QComboBox" name="cont_comboBox">
+        <item>
+         <property name="text">
+          <string>содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>не содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>=</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≠</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≥</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≤</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&gt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&lt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>начинается с</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>заканчивается на</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLineEdit" name="search_lineEdit"/>
+      </item>
+      <item row="0" column="5">
+       <widget class="QPushButton" name="add_button0">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>25</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>+</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="5">
+       <widget class="QPushButton" name="add_button2">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>25</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>+</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="4">
+       <widget class="QPushButton" name="rem_button2">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>-</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="5">
+       <widget class="QPushButton" name="add_button1">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>25</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>+</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="4">
+       <widget class="QPushButton" name="rem_button1">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>-</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="3">
+       <widget class="QLineEdit" name="search_lineEdit2"/>
+      </item>
+      <item row="1" column="3">
+       <widget class="QLineEdit" name="search_lineEdit1"/>
+      </item>
+      <item row="2" column="2">
+       <widget class="QComboBox" name="cont_comboBox2">
+        <item>
+         <property name="text">
+          <string>содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>не содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>=</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≠</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≥</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≤</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&gt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&lt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>начинается с</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>заканчивается на</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QComboBox" name="cont_comboBox1">
+        <item>
+         <property name="text">
+          <string>содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>не содержит</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>=</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≠</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≥</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>≤</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&gt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>&lt;</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>начинается с</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>заканчивается на</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QComboBox" name="field_comboBox2">
+        <item>
+         <property name="text">
+          <string>Авторы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (ориг.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (альт.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Источник</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Редактор</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Место издания</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Издательство</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Год</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Том</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Выпуск</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Серия</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Часть</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страницы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таблицы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Карты</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Иллюстрации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ссылки</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Область серии</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Язык</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тип публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реф. код</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>УДК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Zool. Rec.</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISSN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISBN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таксономические ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Дата публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страна публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер изд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Основной инд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Владелец патента</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реферат</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QComboBox" name="field_comboBox1">
+        <item>
+         <property name="text">
+          <string>Авторы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (ориг.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Название (альт.)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Источник</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Редактор</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Место издания</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Издательство</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Год</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Том</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Выпуск</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Серия</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Часть</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страницы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таблицы</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Карты</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Иллюстрации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ссылки</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Область серии</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Язык</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Тип публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реф. код</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>УДК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Zool. Rec.</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISSN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ISBN</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Таксономические ключевые слова</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Дата публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Страна публикации</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Номер изд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Основной инд. МПК</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Владелец патента</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Реферат</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QComboBox" name="and_comboBox2">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>40</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <item>
+         <property name="text">
+          <string>И</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ИЛИ</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>НЕ</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QComboBox" name="and_comboBox1">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>40</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <item>
+         <property name="text">
+          <string>И</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ИЛИ</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="groupParams">
+     <property name="title">
+      <string>Параметры поиска</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="0">
+       <widget class="QComboBox" name="sel_search_comboBox">
+        <item>
+         <property name="text">
+          <string>Поиск по всей библиотеке</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Добавить к найденному</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Поиск в найденном</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Удалить из найденного</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QCheckBox" name="reg_checkBox">
+        <property name="text">
+         <string>Без учета регистра</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QPushButton" name="save_queryButton">
+        <property name="text">
+         <string>Сохранить запрос</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QPushButton" name="load_queryButton">
+        <property name="text">
+         <string>Загрузить запрос</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="4">
+       <widget class="QDialogButtonBox" name="OKbuttonBox">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="standardButtons">
+         <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QPushButton" name="setdef_Button">
+        <property name="text">
+         <string>Установить как стандартный</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QPushButton" name="rest_defButton">
+        <property name="text">
+         <string>Восстановить стандартные настройки</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>OKbuttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>searchallForm</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>875</x>
+     <y>238</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>247</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>OKbuttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>searchallForm</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>875</x>
+     <y>238</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>247</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

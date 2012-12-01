@@ -1,0 +1,13 @@
+prefix=c:/devel/target/f54568fdb8035b14ef21910122dd80cd
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: poppler-glib
+Description: GLib wrapper for poppler
+Version: 0.12.0
+Requires:  gobject-2.0 gdk-2.0 gdk-pixbuf-2.0 
+Requires.private: poppler = 0.12.0
+
+Libs: -L${libdir} -lpoppler-glib
+Cflags: -I${includedir}/poppler/glib

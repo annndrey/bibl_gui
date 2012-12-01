@@ -1,0 +1,4 @@
+manifest/poppler_0.12.0-1_win32.mft
+bin/libpoppler-5.dll
+bin/libpoppler-glib-4.dll
+bin/libgcc_s_dw2-1.dll

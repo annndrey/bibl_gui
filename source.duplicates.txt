@@ -1,0 +1,603 @@
+
+315	Acta Chimica Sinica
+2628	Acta Physico - Chimica Sinica
+
+76	Agric Biol Chem
+1084	Agric. Biol. Chem
+
+76	Agric Biol Chem
+1084	Agric. Biol. Chem
+
+318	Scand J Gastroenterol
+958	World J Gastroenterol
+1508	Am J Gastroenterol
+2183	Eur J Gastroenterol Hepatol
+
+373	J Mater Sci Mater Med
+1037	J. Vet. Med. Sci
+1700	J Huazhong Univ Sci Technolog Med Sci
+2012	Am J Med Sci
+2094	J Vet Med Sci
+
+642	Am J Pathol
+1306	J Clin Pathol
+1418	J Environ Pathol Toxicol Oncol
+2204	J Invertebr Pathol
+
+177	J Invest Surg
+192	J Plast Reconstr Aesthet Surg
+278	J Craniofac Surg
+570	Am J Surg
+774	J Am Acad Orthop Surg
+864	Eur J Cardiothorac Surg
+1012	Int J Oral Maxillofac Surg
+2043	J Orthop Surg (Hong Kong)
+2074	J Thorac Cardiovasc Surg
+
+2457	Appl Biochem Biotechnol
+2730	Biotechnol Appl Biochem
+
+779	Aquaculture
+1922	Aquacultural Engineering
+
+719	Arch. Environ. Contam. Toxicol
+2726	Arch Environ Contam Toxicol
+
+2165	Graefes Arch Clin Exp Ophthalmol
+2645	Arch Ophthalmol
+
+719	Arch. Environ. Contam. Toxicol
+2726	Arch Environ Contam Toxicol
+
+1859	Artif Organs
+2145	Trends Biomater. Artif. Organs
+
+883	J Biophys Biochem Cytol
+2025	J Inorg Biochem
+2613	Biochem J
+2678	J. Biochem. Biophys. Methods
+2778	Eur J Biochem
+
+2281	Biochim Biophys Acta
+2605	Acta Biochim Biophys Sin (Shanghai)
+
+201	Bioconjug Chem
+2137	Bioconjugate Chem
+
+201	Bioconjug Chem
+2137	Bioconjugate Chem
+
+350	Biol. Pharm. Bull
+418	Biol Pharm Bull
+509	Biol Bull
+1257	Biol. Bull
+1657	Bull Exp Biol Med
+
+350	Biol. Pharm. Bull
+418	Biol Pharm Bull
+
+350	Biol. Pharm. Bull
+418	Biol Pharm Bull
+509	Biol Bull
+1257	Biol. Bull
+1657	Bull Exp Biol Med
+
+350	Biol. Pharm. Bull
+418	Biol Pharm Bull
+
+815	Biological And Pharmaceutical Bulletin
+1947	Biological & Pharmaceutical Bulletin
+
+815	Biological And Pharmaceutical Bulletin
+1947	Biological & Pharmaceutical Bulletin
+
+815	Biological And Pharmaceutical Bulletin
+823	Biological Bulletin
+1473	Biology Bulletin
+1947	Biological & Pharmaceutical Bulletin
+
+815	Biological And Pharmaceutical Bulletin
+823	Biological Bulletin
+1473	Biology Bulletin
+1947	Biological & Pharmaceutical Bulletin
+
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+1617	Biophys Chem
+
+1627	Biophysical Journal
+2426	Journal Of Biochemical And Biophysical Method
+
+490	Bioprocess Engineering
+1132	Bioprocess And Biosystems Engineering
+
+1548	Biosci. Biotechnol. Biochem
+2440	Biosci Biotechnol Biochem
+
+1548	Biosci. Biotechnol. Biochem
+2440	Biosci Biotechnol Biochem
+
+2457	Appl Biochem Biotechnol
+2730	Biotechnol Appl Biochem
+
+93	Biotechnol Bioeng
+325	Biotechnol. Bioeng
+
+699	Biotechnol J
+1113	J Biomed Biotechnol
+1953	J Chem Technol Biotechnol
+1964	J Biotechnol
+2219	J Microbiol Biotechnol
+2237	J Mol Microbiol Biotechnol
+2715	J Ind Microbiol Biotechnol
+
+507	Biotechnol Prog
+1326	Biotechnol. Prog
+
+93	Biotechnol Bioeng
+325	Biotechnol. Bioeng
+
+507	Biotechnol Prog
+1326	Biotechnol. Prog
+
+1371	Bmc Biol
+1435	Bmc Struct Biol
+2770	Bmc Dev Biol
+
+657	Bull Chem. Soc. Jpn
+2156	Bull. Chem. Soc. Jpn
+
+657	Bull Chem. Soc. Jpn
+2156	Bull. Chem. Soc. Jpn
+
+6	J Basic Microbiol
+55	Can J Microbiol
+1960	J Clin Microbiol
+2199	Int J Syst Evol Microbiol
+2219	J Microbiol Biotechnol
+2237	J Mol Microbiol Biotechnol
+2614	J Microbiol Methods
+2715	J Ind Microbiol Biotechnol
+2794	J Appl Microbiol
+
+556	Indian J Physiol Pharmacol
+1390	Can J Physiol Pharmacol
+
+31	Chem Biol
+76	Agric Biol Chem
+537	J. Biol. Chem
+1084	Agric. Biol. Chem
+1441	J Biol Chem (Erratum In: J Biol Chem. 1992 Nov 5;267(31):22694)
+
+696	Chem. Mater
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+
+154	Chem. Pharm. Bull
+1297	Chem Pharm Bull (Tokyo)
+
+735	Chem. Rev
+1065	Mini Rev Med Chem
+1336	J.M.S.-Rev. Macromol. Chem. Phys
+
+1719	Chemical Engineering Communications
+1720	Chemical Communications
+
+1597	Chemical Engineering And Processing
+1818	Chisa 2004 - 16th International Congress Of Chemical And Process Engineering
+
+289	Canadian Journal Of Chemical Engineering
+1150	Journal Of The Chinese Institute Of Chemical Engineers
+1629	Chinese Journal Of Chemical Engineering
+1675	Journal Of Chemical Engineering Of Japan
+1942	Brazilian Journal Of Chemical Engineering
+2152	Korean Journal Of Chemical Engineering
+2586	Chemical Engineering Journal
+
+1150	Journal Of The Chinese Institute Of Chemical Engineers
+1629	Chinese Journal Of Chemical Engineering
+
+1625	Chinese Medical Journal
+2128	Journal Of Xi'An Medical University, Chinese Edition
+
+1215	Clin Exp Dermatol
+1588	Clin Dermatol
+
+261	Comp Biochem Physiol B Biochem Mol Biol
+492	Comp Biochem Physiol C Toxicol Pharmacol
+1388	Comp Biochem Physiol A Mol Integr Physiol
+2231	Comp. Biochem. Physiol
+
+398	Crystal Growth And Design
+482	Crystal Growth& Design
+
+398	Crystal Growth And Design
+482	Crystal Growth& Design
+
+1824	Current Chemical Biology
+2173	Current Biology
+
+157	Environ Sci Technol
+1023	Environ. Sci. Technol
+
+157	Environ Sci Technol
+1023	Environ. Sci. Technol
+2336	Environ Technol
+
+157	Environ Sci Technol
+1023	Environ. Sci. Technol
+
+895	Energy And The Environment - Proceedings Of The International Conference On Energy And The Environment
+1104	Environment International
+1319	International Journal Of Environment And Pollution
+1712	Intern. J Environ. Anal. Chem
+
+751	U. S. Environmental Protection Agency-Water Pollution Control Research Series, W72-06847
+2270	Environmental Pollution
+
+1153	Eur J Pharmacol
+1685	Eur J Clin Pharmacol
+
+899	European Journal Of Pharmacology
+1203	European Journal Of Clinical Pharmacology
+
+1219	Fertility And Sterility
+1890	Fertil Steril
+
+1219	Fertility And Sterility
+1890	Fertil Steril
+
+573	I - Всероссийская Конференция По Иммунитету Растений К Болезням И Вредителям
+2553	I-Я Всероссийская Конференция По Иммунитету Растений К Болезням И Вредителям
+
+83	Indian Journal Of Chemical Technology
+2639	Indian Journal Of Technology
+
+27	Infection And Immunity
+2660	Infect Immun
+
+27	Infection And Immunity
+2660	Infect Immun
+
+1101	Inflamm Bowel Dis
+2736	Inflammation
+
+1140	Int. J. Biol. Macromol
+1582	Int J Biol Macromol
+
+995	Int Microbiol
+2199	Int J Syst Evol Microbiol
+
+1140	Int. J. Biol. Macromol
+1582	Int J Biol Macromol
+
+522	J. Agric. Food Chem
+1063	J Agric Food Chem
+
+208	J. Chil. Chem. Soc
+1966	J Am Chem Soc
+2373	J. Chem. Soc
+2784	J. Am. Chem. Soc
+
+1159	J. Appl. Polym. Sci
+1459	J Appl Polym Sci
+
+935	J Bacteriol
+2314	Int J Syst Bacteriol
+
+1399	J Biomater Appl
+2756	J Biomed Mater Res B Appl Biomater
+
+699	Biotechnol J
+1113	J Biomed Biotechnol
+1953	J Chem Technol Biotechnol
+1964	J Biotechnol
+2219	J Microbiol Biotechnol
+2237	J Mol Microbiol Biotechnol
+2715	J Ind Microbiol Biotechnol
+
+665	J Chromatogr A
+1109	J Chromatogr Sci
+2092	J. Chromatogr
+
+1698	J Am Dent Assoc
+2127	J Dent
+
+258	J Exp Zoolog Part A Comp Exp Biol
+1552	J Exp Biol
+
+1887	J Hepatol
+2183	Eur J Gastroenterol Hepatol
+
+1261	J Immunol
+1936	J Investig Allergol Clin Immunol
+
+1195	J Vet Med B Infect Dis Vet Public Health
+1447	J Infect Dis
+
+1161	J Macromol Sci Chem
+1892	J. Macromol. Sci.-Chem
+
+1961	J Enzyme Inhib Med Chem
+2037	J Med Chem
+
+2219	J Microbiol Biotechnol
+2237	J Mol Microbiol Biotechnol
+2715	J Ind Microbiol Biotechnol
+
+445	J Microencapsul
+1622	J. Microencapsulation
+
+392	J Am Coll Nutr
+405	Int J Vitam Nutr Res
+1374	Am J Clin Nutr
+2791	J Nutr
+
+1312	J Pharm Pharm Sci
+1707	J Pharm Pharmaceut Sci
+2202	J Pharm Sci
+
+1090	J. Pharm. Pharmacol
+1706	J Pharm Pharmacol
+
+1312	J Pharm Pharm Sci
+1707	J Pharm Pharmaceut Sci
+2202	J Pharm Sci
+
+619	J. Phys. Chem. A
+620	J. Phys. Chem. B
+1018	J Phys Chem A
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+2241	J Phys Chem C Nanomater Interfaces
+
+1015	J. R. Soc. Interface
+2051	J R Soc Interface
+
+1037	J. Vet. Med. Sci
+2094	J Vet Med Sci
+
+522	J. Agric. Food Chem
+1063	J Agric Food Chem
+
+208	J. Chil. Chem. Soc
+1966	J Am Chem Soc
+2373	J. Chem. Soc
+2784	J. Am. Chem. Soc
+
+1159	J. Appl. Polym. Sci
+1459	J Appl Polym Sci
+
+537	J. Biol. Chem
+1441	J Biol Chem (Erratum In: J Biol Chem. 1992 Nov 5;267(31):22694)
+
+208	J. Chil. Chem. Soc
+1966	J Am Chem Soc
+2373	J. Chem. Soc
+2784	J. Am. Chem. Soc
+
+665	J Chromatogr A
+1109	J Chromatogr Sci
+2092	J. Chromatogr
+
+1161	J Macromol Sci Chem
+1892	J. Macromol. Sci.-Chem
+
+445	J Microencapsul
+1622	J. Microencapsulation
+
+1090	J. Pharm. Pharmacol
+1706	J Pharm Pharmacol
+
+619	J. Phys. Chem. A
+620	J. Phys. Chem. B
+1018	J Phys Chem A
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+2241	J Phys Chem C Nanomater Interfaces
+
+620	J. Phys. Chem. B
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+
+1015	J. R. Soc. Interface
+2051	J R Soc Interface
+
+1037	J. Vet. Med. Sci
+2094	J Vet Med Sci
+
+1514	Japanese Journal Of Chemotherapy
+2146	Japanese Journal Of Cancer And Chemotherapy
+
+2	Journal Of The China Textile Institute
+914	Journal - China Textile Institute
+
+639	Journal Of Planar Chromatography - Modern Tlc
+1833	Journal Of Chromatography A
+2118	Journal Of Liquid Chromatography And Related Technologies
+
+1309	Journal Of The Institution Of Engineers (India): Environmental Engineering Division
+2268	Journal Of Environmental Engineering
+
+216	Journal Of Food Engineering
+362	Journal Of Food Process Engineering
+
+1417	Journal Of Clinical Periodontology
+2684	Journal Of Periodontology
+
+30	Journal Of Proteome Research
+2562	Journal Of Proteomics
+
+314	Journal Of The Chemical Society. Perkin Transactions
+683	Journal Of The Chemical Society, Perkin Transactions
+
+314	Journal Of The Chemical Society. Perkin Transactions
+683	Journal Of The Chemical Society, Perkin Transactions
+
+2	Journal Of The China Textile Institute
+914	Journal - China Textile Institute
+
+491	Journal Of The Textile Association
+2136	Journal Of The Japan Research Association For Textile End-Uses
+
+2	Journal Of The China Textile Institute
+213	Journal Of The Textile Institute
+914	Journal - China Textile Institute
+1556	Journal Of The Suzhou Institute Of Silk Textile Technology
+
+825	Lasers Surg. Med
+2758	Lasers Surg Med
+
+825	Lasers Surg. Med
+2758	Lasers Surg Med
+
+341	Macromol. Biosci
+407	Macromol Biosci
+
+341	Macromol. Biosci
+407	Macromol Biosci
+
+131	Mar. Biotechnol
+1208	Mar Biotechnol (Ny)
+
+142	Biotechnology Of Marine Polysaccharides
+2108	Marine Biotechnology
+
+1079	Comp Immunol Microbiol Infect Dis
+1408	Fems Immunol Med Microbiol
+1998	Microbiol Immunol
+
+1407	Microsc. Res. Tech
+2563	Microsc Res Tech
+
+1407	Microsc. Res. Tech
+2563	Microsc Res Tech
+
+2237	J Mol Microbiol Biotechnol
+2780	Mol Biotechnol
+
+787	Mol Cancer Ther
+2643	Mol Ther
+
+2487	Osteoarthritis Cartilage
+2723	Osteoarthritis And Cartilage
+
+2487	Osteoarthritis Cartilage
+2723	Osteoarthritis And Cartilage
+
+867	Peptides
+1602	International Journal Of Peptide And Protein Research
+2633	Protein And Peptide Letters
+
+149	Pharmaceutical Biology
+815	Biological And Pharmaceutical Bulletin
+1947	Biological & Pharmaceutical Bulletin
+
+73	Phys Chem Chem Phys
+619	J. Phys. Chem. A
+620	J. Phys. Chem. B
+1018	J Phys Chem A
+1336	J.M.S.-Rev. Macromol. Chem. Phys
+1368	J Phys Chem B Condens Matter Mater Surf Interfaces Biophys
+2241	J Phys Chem C Nanomater Interfaces
+
+572	Physiol Plant
+1286	Plant Physiol Biochem
+2164	J Plant Physiol
+
+395	Plant & Soil
+599	Plant And Soil
+
+395	Plant & Soil
+599	Plant And Soil
+
+191	Plast Reconstr Surg
+192	J Plast Reconstr Aesthet Surg
+
+751	U. S. Environmental Protection Agency-Water Pollution Control Research Series, W72-06847
+2050	Pollution Research
+
+74	J Polym Sci Polym Chem Ed
+332	Int. J. Polym. Anal. & Charact
+1159	J. Appl. Polym. Sci
+1332	Int. J. Polym. Anal. Characr
+1459	J Appl Polym Sci
+2547	Polym J
+2694	J Biomater Sci Polym Ed
+
+1551	Respir Med
+2475	Am J Respir Crit Care Med
+
+686	Respiration
+1551	Respir Med
+2139	Respir Res
+2475	Am J Respir Crit Care Med
+
+2114	Revista De Ciencias Farmaceuticas
+2688	Revista Mexicana De Ciencias Farmaceuticas
+
+281	Btra Scan
+2719	Scanning
+
+818	Sea Grant Proposal
+1305	University Of Washington Sea Grant Program Proposal
+2141	Sea Grant College Program Proposal
+
+913	Sen-I Gakkaishi
+1691	Sen'I Gakkaishi
+
+400	Textile Research Journal
+688	Indian Journal Of Fibre And Textile Research
+2136	Journal Of The Japan Research Association For Textile End-Uses
+
+648	Journal Of Integrative Plant Biology
+2450	Canadian Journal Of Plant Pathology
+2593	European Journal Of Plant Pathology
+2624	Journal Of Plant Physiology
+2773	The Plant Journal
+
+142	Biotechnology Of Marine Polysaccharides
+1986	Polysaccharides: Structural Diversity And Functional Versatility
+2569	The Polysaccharides
+
+231	Water Environment Research
+751	U. S. Environmental Protection Agency-Water Pollution Control Research Series, W72-06847
+2494	Water Quality Research Journal Of Canada
+2652	Journal Of Water Supply: Research And Technology - Aqua
+2809	Water Research
+
+1679	Wuhan Gongye Daxue Xuebao/Journal Of Wuhan University Of Technology
+2005	Wuhan Ligong Daxue Xuebao/Journal Of Wuhan University Of Technology
+2744	Wuhan Daxue Xuebao/Journal Of Wuhan University
+
+1131	Zeitschrift Fur Lebensmittel -Untersuchung Und -Forschung
+1386	Zeitschrift Fur Lebensmittel-Untersuchung Und -Forschung
+
+465	Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi
+485	Zhonghua Er Bi Yan Hou Ke Za Zhi
+
+465	Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi
+485	Zhonghua Er Bi Yan Hou Ke Za Zhi
+1899	Zhonghua Yan Ke Za Zhi
+
+1517	Zhonghua Kou Qiang Yi Xue Za Zhi
+2647	Zhonghua Yi Xue Za Zhi
+
+1223	Материалы Ii Всерооийской Научно-Технической Конференции "Современные Достижения Биотехнологии"
+2226	Биотехнология
+
+618	Журн. Прикл. Химии
+928	Журн.Прикл.Химии
+
+618	Журн. Прикл. Химии
+928	Журн.Прикл.Химии
+
+828	Косметика И Медицина
+1041	Косметика & Медицина
+
+828	Косметика И Медицина
+1041	Косметика & Медицина
+
+1739	Материалы Научной Конференции "Фитотерапия И Лазеротерапия В Xxi Веке"
+2742	Материалы Научной Конференции " Фитотерапия И Лазеротерапия В Xxi Веке"
+
+1739	Материалы Научной Конференции "Фитотерапия И Лазеротерапия В Xxi Веке"
+2742	Материалы Научной Конференции " Фитотерапия И Лазеротерапия В Xxi Веке"
+
+1463	Электронный Журнал «Исследовано В России»
+2755	Электронный Научный Журнал «Исследовано В России»

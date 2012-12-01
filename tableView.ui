@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QDockWidget" name="dockWidget">
+     <widget class="QWidget" name="dockWidgetContents">
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QWidget" name="widget" native="true">
+         <layout class="QVBoxLayout" name="verticalLayout">
+          <item>
+           <widget class="QTableWidget" name="tableWidget">
+            <row>
+             <property name="text">
+              <string>1</string>
+             </property>
+            </row>
+            <row>
+             <property name="text">
+              <string>2</string>
+             </property>
+            </row>
+            <row>
+             <property name="text">
+              <string>3</string>
+             </property>
+            </row>
+            <row>
+             <property name="text">
+              <string>4</string>
+             </property>
+            </row>
+            <row>
+             <property name="text">
+              <string>5</string>
+             </property>
+            </row>
+            <row>
+             <property name="text">
+              <string>6</string>
+             </property>
+            </row>
+            <column>
+             <property name="text">
+              <string>Автор</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Название (ориг.)</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Название (альтерн.)</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Источник</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Редактор(ы)</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Новый столбец</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Издательство</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Год</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Том</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Выпуск</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Серия</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Итд</string>
+             </property>
+            </column>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

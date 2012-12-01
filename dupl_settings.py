@@ -1,0 +1,92 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'dupl_settongs.ui'
+#
+# Created: Sun Apr 22 18:36:16 2012
+#      by: PyQt4 UI code generator 4.7.3
+#
+# WARNING! All changes made in this file will be lost!
+
+from PyQt4 import QtCore, QtGui
+
+class Ui_duplSettingsDialog(object):
+    def setupUi(self, duplSettingsDialog):
+        duplSettingsDialog.setObjectName("duplSettingsDialog")
+        duplSettingsDialog.resize(323, 255)
+        self.verticalLayout = QtGui.QVBoxLayout(duplSettingsDialog)
+        self.verticalLayout.setObjectName("verticalLayout")
+        self.label = QtGui.QLabel(duplSettingsDialog)
+        self.label.setObjectName("label")
+        self.verticalLayout.addWidget(self.label)
+        self.frame = QtGui.QFrame(duplSettingsDialog)
+        self.frame.setFrameShape(QtGui.QFrame.StyledPanel)
+        self.frame.setFrameShadow(QtGui.QFrame.Raised)
+        self.frame.setObjectName("frame")
+        self.gridLayout = QtGui.QGridLayout(self.frame)
+        self.gridLayout.setObjectName("gridLayout")
+        self.authors = QtGui.QCheckBox(self.frame)
+        self.authors.setObjectName("authors")
+        self.gridLayout.addWidget(self.authors, 1, 0, 1, 1)
+        self.name_orig = QtGui.QCheckBox(self.frame)
+        self.name_orig.setObjectName("name_orig")
+        self.gridLayout.addWidget(self.name_orig, 2, 0, 1, 1)
+        self.name_alt = QtGui.QCheckBox(self.frame)
+        self.name_alt.setObjectName("name_alt")
+        self.gridLayout.addWidget(self.name_alt, 3, 0, 1, 1)
+        self.source = QtGui.QCheckBox(self.frame)
+        self.source.setObjectName("source")
+        self.gridLayout.addWidget(self.source, 4, 0, 1, 1)
+        self.editor = QtGui.QCheckBox(self.frame)
+        self.editor.setObjectName("editor")
+        self.gridLayout.addWidget(self.editor, 5, 0, 1, 1)
+        self.publ_location = QtGui.QCheckBox(self.frame)
+        self.publ_location.setObjectName("publ_location")
+        self.gridLayout.addWidget(self.publ_location, 6, 0, 1, 1)
+        self.publication = QtGui.QCheckBox(self.frame)
+        self.publication.setObjectName("publication")
+        self.gridLayout.addWidget(self.publication, 1, 1, 1, 1)
+        self.year = QtGui.QCheckBox(self.frame)
+        self.year.setObjectName("year")
+        self.gridLayout.addWidget(self.year, 2, 1, 1, 1)
+        self.language = QtGui.QCheckBox(self.frame)
+        self.language.setObjectName("language")
+        self.gridLayout.addWidget(self.language, 3, 1, 1, 1)
+        self.type = QtGui.QCheckBox(self.frame)
+        self.type.setObjectName("type")
+        self.gridLayout.addWidget(self.type, 4, 1, 1, 1)
+        self.file_path = QtGui.QCheckBox(self.frame)
+        self.file_path.setObjectName("file_path")
+        self.gridLayout.addWidget(self.file_path, 5, 1, 1, 1)
+        self.file_size = QtGui.QCheckBox(self.frame)
+        self.file_size.setObjectName("file_size")
+        self.gridLayout.addWidget(self.file_size, 6, 1, 1, 1)
+        self.verticalLayout.addWidget(self.frame)
+        spacerItem = QtGui.QSpacerItem(20, 40, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
+        self.verticalLayout.addItem(spacerItem)
+        self.buttonBox = QtGui.QDialogButtonBox(duplSettingsDialog)
+        self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
+        self.buttonBox.setStandardButtons(QtGui.QDialogButtonBox.Cancel|QtGui.QDialogButtonBox.Ok)
+        self.buttonBox.setObjectName("buttonBox")
+        self.verticalLayout.addWidget(self.buttonBox)
+
+        self.retranslateUi(duplSettingsDialog)
+        #QtCore.QObject.connect(self.buttonBox, QtCore.SIGNAL("accepted()"), duplSettingsDialog.accept)
+        #QtCore.QObject.connect(self.buttonBox, QtCore.SIGNAL("rejected()"), duplSettingsDialog.reject)
+        #QtCore.QMetaObject.connectSlotsByName(duplSettingsDialog)
+
+    def retranslateUi(self, duplSettingsDialog):
+        duplSettingsDialog.setWindowTitle(QtGui.QApplication.translate("duplSettingsDialog", "Dialog", None, QtGui.QApplication.UnicodeUTF8))
+        self.label.setText(QtGui.QApplication.translate("duplSettingsDialog", "Будем искать дубли для:", None, QtGui.QApplication.UnicodeUTF8))
+        self.authors.setText(QtGui.QApplication.translate("duplSettingsDialog", "Авторы", None, QtGui.QApplication.UnicodeUTF8))
+        self.name_orig.setText(QtGui.QApplication.translate("duplSettingsDialog", "Название (ориг.)", None, QtGui.QApplication.UnicodeUTF8))
+        self.name_alt.setText(QtGui.QApplication.translate("duplSettingsDialog", "Название (альт.)", None, QtGui.QApplication.UnicodeUTF8))
+        self.source.setText(QtGui.QApplication.translate("duplSettingsDialog", "Источник", None, QtGui.QApplication.UnicodeUTF8))
+        self.editor.setText(QtGui.QApplication.translate("duplSettingsDialog", "Редактор", None, QtGui.QApplication.UnicodeUTF8))
+        self.publ_location.setText(QtGui.QApplication.translate("duplSettingsDialog", "Место издания", None, QtGui.QApplication.UnicodeUTF8))
+        self.publication.setText(QtGui.QApplication.translate("duplSettingsDialog", "Издательство", None, QtGui.QApplication.UnicodeUTF8))
+        self.year.setText(QtGui.QApplication.translate("duplSettingsDialog", "Год", None, QtGui.QApplication.UnicodeUTF8))
+        self.language.setText(QtGui.QApplication.translate("duplSettingsDialog", "Язык", None, QtGui.QApplication.UnicodeUTF8))
+        self.type.setText(QtGui.QApplication.translate("duplSettingsDialog", "Тип публикации", None, QtGui.QApplication.UnicodeUTF8))
+        self.file_path.setText(QtGui.QApplication.translate("duplSettingsDialog", "Файл", None, QtGui.QApplication.UnicodeUTF8))
+        self.file_size.setText(QtGui.QApplication.translate("duplSettingsDialog", "Размер файла", None, QtGui.QApplication.UnicodeUTF8))
+
