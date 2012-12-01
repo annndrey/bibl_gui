@@ -24,7 +24,6 @@ from search_form import Ui_searchallForm as SearchAllForm
 from dupl_settings import Ui_duplSettingsDialog as duplSettingsDialog
 from dupl_delete import Ui_duplDeleteDialog as duplDeleteDialog
 
-
 from export_dialog import ExportDialog
 from import_form import ImportDialog
 from query_list import QueryListForm
